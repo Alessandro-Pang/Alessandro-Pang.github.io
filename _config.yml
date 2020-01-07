@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: Alessandro
 # 头像里面的描述
 avatarDesc: web / 可视化分析
-url: "http://www.ismepangcy.io"
+url: "http://www.ismepangcy.xyz"
 
 # Comment
 comment:
@@ -23,6 +23,7 @@ social:
     # jianshu: 2ada30d8d0f7
     # twitter: 
     mail: pcy1314@163.com
+
 
 
 # 百度统计 
@@ -71,5 +72,3 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
