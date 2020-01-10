@@ -1,7 +1,8 @@
 # Alessandro-pang.github.io
-*个人博客*
 
->个人博客地址 ：[点击访问](http://alexpang.cn)
+* 个人博客
+	
+	> 个人博客地址 ：[点击访问](http://alexpang.cn)
 
 * 博客模板 : leopardpan
 
