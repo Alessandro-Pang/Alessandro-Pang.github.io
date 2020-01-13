@@ -20,82 +20,82 @@ tag: Git
 
 ​	**Git  Hub 账号注册：**
 
-> 1、打开[Git Hub](https://github.com/join?source=header-home)点击注册账号
->
-> 2、按照提示依次输入用户名，邮箱，密码 <span style="color:rgb(255,50,100)">(注：邮箱很重要！)</span>
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step1.png" alt="blog_image" />
->
-> 3、验证活体身份、核实用户账户，验证成功后，点击 Next Select a plan
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step2.png" alt="blog_image" />
->
-> 4、选择个人版、还是专业版 
->
-> 额，一般对于新手来讲免费版就绰绰有余了，所以这里直接选择 Chooes Free即可，
->
-> 当然了，如果你有一个Team在做开发，那么7美元一个月也算不上很贵了！
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step3.png" alt="blog_image" />
->
-> | 个人免费版                                                   | 团队专业版   （7美元 / 月）                                  |
-> | :----------------------------------------------------------- | ------------------------------------------------------------ |
-> | 无限的公共仓库<br/>无限的私人仓库<br/>仅限3个合作者（用于私人存储库）<br/>每月总计2,000分钟的行动<br/>500MB的GitHub软件包存储<br/>公共存储库的高级漏洞扫描<br/>自动化安全更新<br/>GitHub安全公告<br/>问题和错误跟踪<br/>项目管理 | 包含所有免费内容<br/>无限合作者<br/>每月总计3,000分钟的行动<br/>1GB的GitHub软件包存储<br/>私有GitHub页面和Wiki<br/>私人受保护的分支机构<br/>代码所有者<br/>仓库见解 |
->
-> 5、选择你的开发经验
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step4.png" alt="blog_image" />
->
-> | None               | A little                       |
-> | ------------------ | ------------------------------ |
-> | 从来没有过编程经验 | 有一点，是一个新入门的编程新手 |
-> | **A moderate amount **             |  **A lot**          |
-> |从事过开发，有一些经验的开发者 | 有很多开发经验 |
->
-> 6、您打算将GitHub用于什么？（最多选择3个）
->
-> 关于这个，如果你从没接触过Git 一类的东西，我们直接选择第一行的三个即可
->
-> 如果你有一些编程经验，或者确实报着其他目的，按照想法点选即可，Git Hub会相应的给出一些帮助信息；
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step5.png" alt="blog_image" />
->
-> | 学习代码                         | 学习Git和GitHub    | 托管项目（存储库）         |
-> | -------------------------------- | ------------------ | -------------------------- |
-> | **使用GitHub Pages创建一个网站** | **与我的团队合作** | **寻找开源并为此做出贡献** |
-> | **学校作业和学生项目**           | **使用GitHub API** | **其他**                   |
->
-> 7、填写感兴趣的信息，如语言，框架，行业等，当然了，你不知道什么语言、框架也可以不填写；
->
-> 8、最后点击 Complete setup，完成设置；
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step6.png" alt="blog_image" />
->
-> 9、这时Git Hub会给你发送一个邮件，用于确认用户，你只要按照提示登录一次即可！
->
-> 10、如果你没有确认邮箱中的邮件，你会看到这样一个提示
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step7.png" alt="blog_image" />
+&#8195;1、打开[Git Hub](https://github.com/join?source=header-home)点击注册账号
+
+&#8195;2、按照提示依次输入用户名，邮箱，密码 <span style="color:rgb(255,50,100)">(注：邮箱很重要！)</span>
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step1.png" alt="blog_image" />
+
+&#8195;3、验证活体身份、核实用户账户，验证成功后，点击 Next Select a plan
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step2.png" alt="blog_image" />
+
+&#8195;4、选择个人版、还是专业版 
+
+&#8195;额，一般对于新手来讲免费版就绰绰有余了，所以这里直接选择 Chooes Free即可，
+
+&#8195;当然了，如果你有一个Team在做开发，那么7美元一个月也算不上很贵了！
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step3.png" alt="blog_image" />
+
+|个人免费版                                                   | 团队专业版   （7美元 / 月）                                  |
+|:----------------------------------------------------------- | ------------------------------------------------------------ |
+|无限的公共仓库<br/>无限的私人仓库<br/>仅限3个合作者（用于私人存储库）<br/>每月总计2,000分钟的行动<br/>500MB的GitHub软件包存储<br/>公共存储库的高级漏洞扫描<br/>自动化安全更新<br/>GitHub安全公告<br/>问题和错误跟踪<br/>项目管理 | 包含所有免费内容<br/>无限合作者<br/>每月总计3,000分钟的行动<br/>1GB的GitHub软件包存储<br/>私有GitHub页面和Wiki<br/>私人受保护的分支机构<br/>代码所有者<br/>仓库见解 |
+
+&#8195;5、选择你的开发经验
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step4.png" alt="blog_image" />
+
+|None               | A little                       |
+|------------------ | ------------------------------ |
+|从来没有过编程经验 | 有一点，是一个新入门的编程新手 |
+|**A moderate amount**             |  **A lot**          |
+&#8195;|从事过开发，有一些经验的开发者 | 有很多开发经验 |
+
+&#8195;6、您打算将GitHub用于什么？（最多选择3个）
+
+&#8195;关于这个，如果你从没接触过Git 一类的东西，我们直接选择第一行的三个即可
+
+&#8195;如果你有一些编程经验，或者确实报着其他目的，按照想法点选即可，Git Hub会相应的给出一些帮助信息；
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step5.png" alt="blog_image" />
+
+|学习代码                         | 学习Git和GitHub    | 托管项目（存储库）         |
+|-------------------------------- | ------------------ | -------------------------- |
+|**使用GitHub Pages创建一个网站** | **与我的团队合作** | **寻找开源并为此做出贡献** |
+|**学校作业和学生项目**           | **使用GitHub API** | **其他**                   |
+
+&#8195;7、填写感兴趣的信息，如语言，框架，行业等，当然了，你不知道什么语言、框架也可以不填写；
+
+&#8195;8、最后点击 Complete setup，完成设置；
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step6.png" alt="blog_image" />
+
+&#8195;9、这时Git Hub会给你发送一个邮件，用于确认用户，你只要按照提示登录一次即可！
+
+&#8195;10、如果你没有确认邮箱中的邮件，你会看到这样一个提示
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step7.png" alt="blog_image" />
 
 ​	**Git Hub 创建仓库**
 
-> 这时你回到首页，中间会有一个大大的标志
->
-> 绿色的按钮是阅读指南，我用红色圈起来的按钮是创建一个仓库；
->
-> 我们直接点击 Start a project 创建一个仓库
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step8.png" alt="blog_image" />
->
-> 按照提示，填写项目名，备注，创建Readme文件等；
->
-> 填写完成后，点击Create repository,创建仓库；
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step9.png" alt="blog_image" />
->
-> 到此，我们已经成功地创建了一个项目仓库
->
-> <img src="../images/posts/2020-1-10-GitCourse/c-step10.png" alt="blog_image" />
+&#8195;这时你回到首页，中间会有一个大大的标志
+
+&#8195;绿色的按钮是阅读指南，我用红色圈起来的按钮是创建一个仓库；
+
+&#8195;我们直接点击 Start a project 创建一个仓库
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step8.png" alt="blog_image" />
+
+&#8195;按照提示，填写项目名，备注，创建Readme文件等；
+
+&#8195;填写完成后，点击Create repository,创建仓库；
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step9.png" alt="blog_image" />
+
+&#8195;到此，我们已经成功地创建了一个项目仓库
+
+&#8195;<img src="../images/posts/2020-1-10-GitCourse/c-step10.png" alt="blog_image" />
 
 <h3>Git Hub Desktop安装与使用</h3>
 &#8195;首先到官网下载 [Git Hub Desktop](https://desktop.github.com/) ,不过现在貌似被墙了！？
