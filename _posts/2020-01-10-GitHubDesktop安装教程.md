@@ -176,4 +176,4 @@ tag: Git
 
 <img src="../images/posts/2020-1-10-GitCourse/step11.png" alt="blog_image" />
 
-转载请注明：[庞超越的博客](http://www.alexpang.cn) » [点击阅读原文](https://www.alexpang.cn/2020/01/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/) 
+转载请注明：[庞超越的博客](http://www.alexpang.cn) » [点击阅读原文](https://www.alexpang.cn/2020/01/GitHubDesktop安装教程/) 
