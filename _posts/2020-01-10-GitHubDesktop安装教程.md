@@ -14,13 +14,11 @@ tag: Git
 &#8195;Git Hub Desktop 界面和功能简洁美观，省去了繁杂的选项花哨的功能，对于 git add,git commit,git push三连操作一键化执行；GUI界面操作对于新手来说，很容易就能熟练的对版本库进行上传合并、分支等操作，图形化的界面比起命令行更易于学习和使用，但个人并不推荐过渡依赖 Git Hub Desktop 而放弃命令行，毕竟还有一些基于内网的 Git 仓库无法使用Git Hub Desktop，而且使用 Git Bash也能让你在windows环境下使用一些简单的Liunx命令;
 
 <h3>Git Hub 使用教程</h3>
-
 &#8195;在安装Git Hub前，我们还需要先注册一个账号，并且会简单的创建仓库，查看仓库这一类的操作；
 
-&#8195;打开[Git Hub](https://github.com)点击注册账号
+&#8195;打开[Git Hub](https://github.com/join?source=header-home)点击注册账号，
 
 <h3>Git Hub Desktop安装与使用</h3>
-
 &#8195;首先到官网下载 [Git Hub Desktop](https://desktop.github.com/) ,不过现在貌似被墙了！？
 
 &#8195;Git Hub Desktop 是免安装步骤的，当你双击之后就能直接使用了；
